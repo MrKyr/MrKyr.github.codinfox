@@ -1,0 +1,65 @@
+# Site Info
+title: Coral'i Signs & Graphic Designs
+tagline: 'Signs & Graphic Designs'
+# description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+description:
+# baseurl: "/lanyon"
+url: http://MrKyr.github.io
+logo: '/public/logo.png'
+
+# Site configurations
+# gems:
+#   - jekyll-paginate
+plugins: [jekyll-paginate]
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.2.0
+
+# About/contact
+author:
+  name: Coral'i
+  description: A passionate <strong>developer</strong> and <strong>graphic designer</strong>.
+  gravatar:  9dbab1085f90dc74c41b4bec8d038008 # md5 hash of your email address
+  contact: 
+    github:   https://github.com/MrKyr
+    twitter:  https://twitter.com/coralisigns
+    email:    mailto:kyr@designisdesign.eu
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+  # Github Project: 
+  #   - 'http://MrKyr.github.io/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  # image: /public/img/finou-psaltis-1.jpg
+  # image: /public/img/Caq2H5pUEAAvVIP.jpg
+  # image: /public/img/donkey.jpg
+  image: /public/img/travel.jpg
+  caption: Coral'i &copy; <a href="/blog">ENTER</a> the blog!
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-152809930-1' # leave blank if you don't want google analytics
+disqus_short_name: 'httpmrkyrgithubio' # leave blank if you don't want disqus
+
