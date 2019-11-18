@@ -9,7 +9,7 @@ Backup & gzip all the hiden files from your [linux](http://kernel.org "kernel.or
 
 ### Code:
 
-```
+```sh
 $ tar cpvzf ~/BACKUPS/dotfiles.tgz ./.[aA-zZ]* \
   --exclude=.somefile --exclude=.somedirectory
 ```
