@@ -1,7 +1,6 @@
 # Site Info
 title: Coral'i Signs & Graphic Designs
 tagline: 'Signs & Graphic Designs'
-# description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
 description:
 # baseurl: "/lanyon"
 url: http://MrKyr.github.io
@@ -10,7 +9,10 @@ logo: '/public/logo.png'
 # Site configurations
 # gems:
 #   - jekyll-paginate
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed 
+  - jekyll-seo-tag
 markdown: kramdown
 kramdown:
   input: GFM
