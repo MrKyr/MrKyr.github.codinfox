@@ -4,13 +4,13 @@ author: kyr
 date: 2019-11-15 12:58:53 +0200
 title: Jack Daniel's Sauce
 description: Η αυθεντική συνταγή για την sauce των T.G.I. Friday's.
-category: [cooking]
+category: [Cooking]
 tags: [σάλτσες]
 ---
 
 ![jack sauce](/public/img/posts/jack_daniels_sauce.jpg)
 
-Η αυθεντική συνταγή για την sauce των T.G.I. Friday's.
+<!-- more -->
 
 ## Υλικά
 

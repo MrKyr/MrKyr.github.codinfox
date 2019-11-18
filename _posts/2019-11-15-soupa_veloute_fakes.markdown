@@ -4,11 +4,13 @@ author: kyr
 date: 2019-11-15 12:22:04 +0200
 title: Βελουτέ σούπα φακές
 description:
-category: cooking
+category: Cooking
 tags: [σούπες, όσπρια]
 ---
 
 ![fakes](/public/img/posts/fakes.jpg)
+
+<!-- more -->
 
 ## Υλικά για 4 άτομα:
 

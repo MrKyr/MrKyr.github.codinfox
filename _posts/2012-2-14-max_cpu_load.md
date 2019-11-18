@@ -1,11 +1,11 @@
 ---
 layout: post
+author: kyr
 title: Max Cpu Load
+description: Bash command line to show system's max cpu load. 
 category: [Coding]
 tags: [linux]
 ---
-
-Bash command line to show system's max cpu load. 
 
 ### Code:
 

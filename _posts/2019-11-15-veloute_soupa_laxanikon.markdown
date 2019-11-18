@@ -4,12 +4,13 @@ author: kyr
 date: 2019-11-15 12:48:55 +0200
 title: Βελουτέ σούπα λαχανικών
 description:
-category: cooking
+category: Cooking
 tags: [σούπες, λαχανικά]
 ---
 
 ![veloute laxanikon](/public/img/posts/veloute_soupa_laxanikon.jpg)
 
+<!-- more -->
 
 ## Υλικά για 4 άτομα:
 

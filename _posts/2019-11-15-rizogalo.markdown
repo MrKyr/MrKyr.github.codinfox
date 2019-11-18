@@ -4,11 +4,13 @@ author: kyr
 date: 2019-11-15 12:39:04 +0200
 title: Ρυζόγαλο
 description:
-category: [cooking]
+category: [Cooking]
 tags: [γλυκά]
 ---
 
 ![](/public/img/posts/rizogalo.jpg)
+
+<!-- more -->
 
 ## Υλικά:
 

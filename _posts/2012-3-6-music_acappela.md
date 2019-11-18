@@ -1,13 +1,14 @@
 ---
 layout: post
+author: kyr
 date: 2012-3-6 11:12:04 +0200
 title: Acappelas
+description: Here is how i've been creating acappellas on linux with [SoX](http://sox.sourceforge.net "SoX - Sound eXchange") a cross-platform command line audio utility tool that works on Linux, Windows and MacOS.
 category: [Coding]
 tags: [linux, mac, music]
 ---
 
-Here is how i've been creating acappellas on linux with [SoX](http://sox.sourceforge.net "SoX - Sound eXchange") 
-a cross-platform command line audio utility tool that works on Linux, Windows and MacOS.
+### Code:
 
 ```sh
 $ soxmix -v .5 a.wav -v -.5 b.wav acapella.wav
